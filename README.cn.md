@@ -4,7 +4,7 @@
 
 Gaiden is a tool that makes it easy to create documentation with Markdown.
 
-![gaiden](https://repo.x-cmd.io/gaiden.svg)
+![gaiden](https://repo.x-cmd.io/gaiden.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,16 @@ x install gaiden
 - **最新版本**: `v1.3` (2022-12-15)
 - **最近提交**: 2022-12-16
 - **Release 含资产**: 1 个
-- **发布时间**: 2022-12-15T00:02:48Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gaiden-1.3.zip](https://github.com/kobo/gaiden/releases/download/v1.3/gaiden-1.3.zip) | 18.5 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 171 · **Fork**: 11 · **开放 issue**: 21 · **贡献者**: 5
+- **Star**: 172 · **Fork**: 11 · **开放 issue**: 21 · **贡献者**: 5
 
 ## 累计统计
 
@@ -61,4 +66,4 @@ gaiden 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:52:43Z._

@@ -22,11 +22,16 @@ x install gaiden
 - **Latest**: `v1.3` (2022-12-15)
 - **Last commit**: 2022-12-16
 - **Assets in release**: 1
-- **Published**: 2022-12-15T00:02:48Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gaiden-1.3.zip](https://github.com/kobo/gaiden/releases/download/v1.3/gaiden-1.3.zip) | 18.5 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 171 · **Forks**: 11 · **Open issues**: 21 · **Contributors**: 5
+- **Stars**: 172 · **Forks**: 11 · **Open issues**: 21 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -57,8 +62,8 @@ Total: **10,049** lines of code across **141** files in the top 5 languages.
 Install metadata for gaiden lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gaiden` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gaiden.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gaiden.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:52:42Z._
